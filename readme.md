@@ -32,3 +32,13 @@
 |Overall|0.0|	1.4|	2.4|	4.5|	7.9|	11.7|	23.4|
 |PRESTO|0.0| 1.4| 2.2| 4.0| 7.2| 11.0| 23.4 |
 |Snart Foraeldre|0.1| 1.7| 2.9| 6.0| 9.1| 12.6| 18.4 |
+
+### Table 5. Number of missing values
+|Variable|# missing|% missing|
+|:---|---:|---:|
+|BMI|	1	|0.3%|
+|Education|	1	|0.3%|
+|Menstrual flow amount|	1	|0.3%|
+|Last method of birth control|	2	|0.6%|
+|Cycle regularity|	4	|1.1%|
+|Household income|	7	|2.0%|
