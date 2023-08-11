@@ -1,5 +1,5 @@
 ## Supplemental Tables. 
-### Table1. Summary of serum polyfluorinated chemical concentrations in 357 pregnancy planners, pooled data from PRESTO (2015-2023) and Snart Foraeldre, 2011-2016
+### Table 1. Summary of serum perfluoroalkyl and polyfluoroalkyl substances concentrations in 357 pregnancy planners, pooled data from PRESTO (2015-2023) and Snart Foraeldre, 2011-2016
 | Perfluoroalkyl and polyfluoroalkyl substances (ng/ml) | % Detected | Minimum | 10th pct|25th pct|50th pct|75th pct|90th pct|Maximum|
 | :------------- | :------------: | --------------: |---:|---:|---:|---:|---:|---:|
 |PFHxS|	98.9|	0.1*|	0.2|	0.3|	0.6|	1.1|	2.1|	10.4|
@@ -8,7 +8,7 @@
 |PFOA|	99.7|	0.2*|	0.5|	0.9|	1.4|	2.1|	3.3|	11.8|
 |PFDA|	74.2|	0.1*|	0.07|	0.07|	0.2|	0.3|	0.4|	0.9|
 #### *Limit of detection.
-### Table 2. Summary of serum polyfluorinated chemical concentrations in 272 PRESTO participants (2015-2023)
+### Table 2. Summary of serum perfluoroalkyl and polyfluoroalkyl substances concentrations in 272 PRESTO participants (2015-2023)
 | Perfluoroalkyl and polyfluoroalkyl substances (ng/ml) | % Detected | Minimum | 10th pct|25th pct|50th pct|75th pct|90th pct|Maximum|
 | :------------- | :------------: | --------------: |---:|---:|---:|---:|---:|---:|
 |PFHxS|98.5	|0.1*	|0.3	|0.4	|0.8	|1.3	|2.5	|10.4|
@@ -17,7 +17,7 @@
 |PFOA|99.6	|0.2*	|0.5	|0.8	|1.3	|2.1	|3.4	|11.8|
 |PFDA|66.5	|0.1*	|0.07	|0.07	|0.1	|0.2	|0.4	|0.9|
 #### *Limit of detection.
-### Table 3. Summary of serum polyfluorinated chemical concentrations in 85 Snart Foraeldre participants (2011-2016)
+### Table 3. Summary of serum perfluoroalkyl and polyfluoroalkyl substances concentrations in 85 Snart Foraeldre participants (2011-2016)
 | Perfluoroalkyl and polyfluoroalkyl substances (ng/ml) | % Detected | Minimum | 10th pct|25th pct|50th pct|75th pct|90th pct|Maximum|
 | :------------- | :------------: | --------------: |---:|---:|---:|---:|---:|---:|
 |PFHxS|100|0.1	|0.2	|0.2	|0.3	|0.4	|0.5	|1.2|
@@ -37,7 +37,7 @@
 ### Table 5. Number of missing values
 |Variable|# missing|% missing|
 |:---|---:|---:|
-|BMI|	1	|0.3%|
+|Body Mass Index|	1	|0.3%|
 |Education|	1	|0.3%|
 |Menstrual flow amount|	1	|0.3%|
 |Last method of birth control|	2	|0.6%|
